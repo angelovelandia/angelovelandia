@@ -64,5 +64,8 @@
 	<a href="https://github.com/angelovelandia/chrome-modedark">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=chrome-modedark&hide_border=true&theme=dark&show_icons=true" />
 	</a>
+	<a href="https://github.com/angelovelandia/angel-bot">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=angel-bot&hide_border=true&theme=dark&show_icons=true" />
+	</a>
 	
 </p>
