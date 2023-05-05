@@ -40,6 +40,16 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
+![Authenticator](https://img.shields.io/badge/-Google%20Authenticator-05122A?style=flat&logo=google)&nbsp;
+
+<hr />
+
+### 🚀 &nbsp;Technologies:
+
+💗 Cryptocurrency Payment Gateway Integration
+💗 Integration of payment gateways with TC
+💗 SMS implementation
+💗 2FA logins
 
 <hr />
 
@@ -49,10 +59,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelovelandia&count_private=true&theme=dark&show_icons=true" alt="angelovelandia" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelovelandia&hide_border=true&theme=dark&show_icons=true" />
-</p>
-
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=amankr1619&theme=dark&show_icons=true" alt="amankr1619" />
 </p>
 
 <hr />
