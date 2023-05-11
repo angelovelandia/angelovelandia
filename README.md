@@ -64,11 +64,9 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/angelus0918) 
 
 <hr />
-## 📈 Statistics
 
+### 📈 Statistics
 
-
-<br/>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelovelandia&count_private=true&theme=dark&show_icons=true" alt="angelovelandia" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelovelandia&hide_border=true&theme=dark&show_icons=true" />
