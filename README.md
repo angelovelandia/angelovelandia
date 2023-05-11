@@ -2,10 +2,10 @@
 	<a target="_blank" href="https://www.linkedin.com/in/angelo-velandia-703438237/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a target="_blank" href="https://twitter.com/lovedevyt">
+	<a target="_blank" href="https://twitter.com/avcodev">
 		<img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a target="_blank" href="https://www.youtube.com/c/AngelusTechYT/videos">
+	<a target="_blank" href="https://www.youtube.com/channel/UCfsIViHJI26l2PWx0-4dVeQ">
 		<img src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
 </p>
@@ -50,7 +50,19 @@
 
 <hr />
 
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=avcodev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+<hr />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<hr />
+
 ## 📈 Statistics
+
+
 
 <br/>
 <p align="center">
@@ -83,3 +95,6 @@
 	</a>
 	
 </p>
+<hr />
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/angelus0918) 
