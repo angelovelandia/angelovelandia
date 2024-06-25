@@ -61,8 +61,8 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
-	<a href="https://github.com/angelovelandia/link-shortener">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=link-shortener&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/angelovelandia/api-products-nodejs">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=api-products-nodejs&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/angelovelandia/DownloadImageNodeJS">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=DownloadImageNodeJS&hide_border=true&theme=dark&show_icons=true" />
