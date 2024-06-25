@@ -64,8 +64,8 @@
 	<a href="https://github.com/angelovelandia/api-products-nodejs">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=api-products-nodejs&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/angelovelandia/DownloadImageNodeJS">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=DownloadImageNodeJS&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/angelovelandia/cli-project-init">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=cli-project-init&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/angelovelandia/ImageToText">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=ImageToText&hide_border=true&theme=dark&show_icons=true" />
