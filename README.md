@@ -40,7 +40,7 @@
 <hr />
 
 ## 🐦 Tweets
-[![](https://gtce.itsvg.in/api?username=avcodev_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=avcodev_&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 <hr />
 
