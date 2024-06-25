@@ -73,8 +73,8 @@
 	<a href="https://github.com/angelovelandia/listproducts-electronjs">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=listproducts-electronjs&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/angelovelandia/angel-bot">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=angel-bot&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/angelovelandia/react-multi-lang-app">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=react-multi-lang-app&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/angelovelandia/react-multi-lang-app">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=react-multi-lang-app&hide_border=true&theme=dark&show_icons=true" />
