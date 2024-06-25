@@ -39,11 +39,6 @@
 
 <hr />
 
-## 🐦 Tweets
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=avcodev_&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
-
-<hr />
-
 ### ✍️ Frase random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
