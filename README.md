@@ -67,8 +67,8 @@
 	<a href="https://github.com/angelovelandia/cli-project-init">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=cli-project-init&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/angelovelandia/ImageToText">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=ImageToText&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/angelovelandia/my-minecraft-clone">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=my-minecraft-clone&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/angelovelandia/chrome-modedark">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=chrome-modedark&hide_border=true&theme=dark&show_icons=true" />
