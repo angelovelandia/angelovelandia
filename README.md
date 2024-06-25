@@ -76,8 +76,8 @@
 	<a href="https://github.com/angelovelandia/react-multi-lang-app">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=react-multi-lang-app&hide_border=true&theme=dark&show_icons=true" />
 	</a>
-	<a href="https://github.com/angelovelandia/react-multi-lang-app">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=react-multi-lang-app&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/angelovelandia/autodeploy-webhook-git">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=angelovelandia&repo=autodeploy-webhook-git&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	
 </p>
