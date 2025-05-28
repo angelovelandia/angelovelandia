@@ -1,7 +1,4 @@
 <p align="center">
-	<a target="_blank" href="https://x.com/avcodev_">
-		<img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=x&logoColor=white" />
-	</a>
 	<a target="_blank" href="https://www.youtube.com/@avcodev_/featured">
 		<img src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
